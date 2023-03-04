@@ -7,4 +7,5 @@ The following is project is just practice to create a clone for already existing
 Rough IDEA:
 1. Setup Project
 2. APIs for data pull (movies/tv-shows data)
-3. Youtube 
+3. Youtube api for trailers
+4. Hosting on GitHub 
